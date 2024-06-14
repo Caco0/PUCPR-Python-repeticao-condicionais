@@ -9,12 +9,26 @@ Esses arquivos permitirão que você obtenha uma cópia dos estudos da linguagem
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
+Instalando o editor de código VsCode
+winget
 ```
-Python 3 ou versão mais atual
-VsCode ou PyCharm
+winget install -e --id Microsoft.VisualStudioCode
 ```
+Chocolatey
+```
+choco install vscode
+```
+Instalando o editor de código Pycharm
+winget
+```
+winget install -e --id JetBrains.PyCharm.Community
+```
+Chocolatey
+```
+choco install pycharm-community
+```
+Instalando Python
+* [Python](https://www.python.org/downloads/) - Linguagem usada
 
 ## 📦 Implantação
 
