@@ -46,4 +46,4 @@ Editor VsCode e extensões: autopep8, autoDocstring, Black Formatter, Flake8, Py
 * **Desenvolvedor** - *Trabalho Inicial* - [Rafael Fortunato](https://github.com/Caco0)
 
 
-⌨️ com ❤️ por [Rafael FOrtunato](https://github.com/Caco0) 😊
+⌨️ com ❤️ por [Rafael Fortunato](https://github.com/Caco0) 😊
